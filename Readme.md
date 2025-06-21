@@ -3,7 +3,7 @@
 An internal feedback sharing tool for managers and employees. It supports structured feedback, sentiment tracking, feedback history, employee acknowledgments, and email notifications.
 
 ### Deployed Links:
-- **Frontend:** [https://feedback-frontend-sigma.vercel.app/login](https://feedback-frontend-sigma.vercel.app/login)  
+- **Frontend :** [https://feedback-frontend-sigma.vercel.app/login](https://feedback-frontend-sigma.vercel.app/login)  
 - **Backend:** [https://imaginative-sharline-hellfire-16382f1c.koyeb.app/](https://imaginative-sharline-hellfire-16382f1c.koyeb.app/)  
 - **Docker:** [https://hub.docker.com/repository/docker/frontkick11/feedback-app](https://hub.docker.com/repository/docker/frontkick11/feedback-app)
 
