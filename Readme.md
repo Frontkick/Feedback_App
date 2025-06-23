@@ -8,7 +8,11 @@ An internal feedback sharing tool for managers and employees. It supports struct
 - **Docker:** [https://hub.docker.com/repository/docker/frontkick11/feedback-app](https://hub.docker.com/repository/docker/frontkick11/feedback-app)
 
 ---
-
+###  Docker Set up
+```bash
+docker pull frontkick11/feedback-app
+docker run frontkick11/feedback-app
+```
 
 ## 🔧 Setup Instructions
 
